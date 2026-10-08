@@ -7,7 +7,7 @@
 </head>
 <body>
     
-    <h1>Correction du TP 02</h1>
+    <h1>Correction du Tp 02</h1>
     <ul><a href="ex01.php"> exercice 01</a></ul>
     <ul><a href="ex02.php"> exercice 02</a></ul>
     <ul><a href="ex03.php"> exercice 03</a></ul>
